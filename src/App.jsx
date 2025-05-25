@@ -7,6 +7,8 @@ import SectionThird from './components/SectionThird'
 import Gallery from './components/Gallery'
 import AboutUs from './components/AboutUs'
 import Email from './components/Email'
+import Blog from './components/Blog'
+import Footer from './components/Footer'
 
 
 
@@ -21,6 +23,8 @@ function App() {
      <Gallery/>
      <AboutUs/>
      <Email/>
+     <Blog/>
+     <Footer/>
     </>
   )
 }
